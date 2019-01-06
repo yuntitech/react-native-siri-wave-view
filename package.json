@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/prscX/react-native-siri-wave-view.git"
   },
+  "homepage": "https://github.com/prscX/react-native-siri-wave-view",
   "keywords": ["react-native"],
   "author": "Pranav Raj Singh Chauhan",
   "license": "Apache License",
