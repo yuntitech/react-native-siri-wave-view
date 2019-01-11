@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-siri-wave-view",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "React Native Siri Wave View",
   "main": "RNSiriWaveView.js",
   "scripts": {
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prscX/react-native-siri-wave-view.git"
+    "url": "https://github.com/yuntitech/react-native-siri-wave-view.git"
   },
-  "homepage": "https://github.com/prscX/react-native-siri-wave-view",
+  "homepage": "https://github.com/yuntitech/react-native-siri-wave-view",
   "keywords": ["react-native"],
-  "author": "Pranav Raj Singh Chauhan",
+  "author": "Yunti",
   "license": "Apache License",
   "peerDependencies": {},
   "devDependencies": {
