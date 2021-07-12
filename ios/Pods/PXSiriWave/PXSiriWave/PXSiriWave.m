@@ -9,7 +9,7 @@
 
 #import "PXSiriWave.h"
 #import "SiriWaveCurve.h"
-#import "math.h"
+#import <math.h>
 
 static const CGFloat kDefaultFrequency          = 1.5f;
 static const CGFloat kDefaultAmplitude          = 0.1f;
