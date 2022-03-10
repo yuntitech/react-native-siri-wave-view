@@ -1,5 +1,5 @@
 #import <React/RCTViewManager.h>
-#import <PXSiriWave/PXSiriWave.h>
+#import <YTSiriWave/PXSiriWave.h>
 
 @interface RNSiriWaveView9 : RCTViewManager
 
