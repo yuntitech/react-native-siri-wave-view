@@ -45,3 +45,5 @@ buck-out/
 *.keystore
       
 .history/*
+Example/ios/vendor
+Example/android/app/src/debug

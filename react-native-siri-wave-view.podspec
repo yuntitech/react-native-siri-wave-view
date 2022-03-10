@@ -18,4 +18,7 @@ Pod::Spec.new do |s|
   s.source_files   = "ios/**/*.{h,m}"
 
   s.dependency 'React'
+  s.dependency 'SCSiriWaveformView'
+  s.dependency 'YTSiriWave', '0.1.0'
+
 end
