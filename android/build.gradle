@@ -33,6 +33,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile project(':siriwaveview')
+    implementation 'com.facebook.react:react-native:+'
+    implementation project(':siriwaveview')
 }
